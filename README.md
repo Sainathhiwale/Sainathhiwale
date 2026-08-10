@@ -1,16 +1,93 @@
 ## Hi there 👋
 
-<!--
-**Sainathhiwale/Sainathhiwale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SAINATH HIWALE
 
-Here are some ideas to get you started:
+### Consultant | Senior Software Engineer | Android & Backend | AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**8+ years of Software Engineering experience** building scalable Android, backend, microservices, and AI-powered applications.
+
+**Android • Kotlin • Java • Spring Boot • Microservices • SQL • MySQL • Hibernate • Kafka • Generative AI • MCP • AI Agents • On-Device AI**
+
+---
+
+## 🚀 Featured AI Projects
+
+### 🤖 AIMCPAgents
+
+**Android + Model Context Protocol (MCP) + AI Agents**
+
+Exploring AI agent architectures, MCP tool integration, remote/local MCP servers, tool discovery, and AI-powered Android applications.
+
+**Tech:** Kotlin • Android • Jetpack Compose • MCP • JSON-RPC • SSE • AI Agents
+
+🔗 https://github.com/Sainathhiwale/AIMCPAgents
+
+---
+
+### 🧠 GeminiEdge-MLKit-NanoEdge-AI-Android
+
+**Gemini Nano + ML Kit + On-Device AI**
+
+Exploring privacy-focused AI capabilities using Gemini Nano and ML Kit for intelligent on-device Android applications.
+
+**Tech:** Kotlin • Android • Gemini Nano • ML Kit • Edge AI • On-Device AI
+
+🔗 https://github.com/Sainathhiwale/GeminiEdge-MLKit-NanoEdge-AI-Android
+
+---
+
+### 📱 MLKitApp
+
+**ML Kit + Gemini + Android Generative AI**
+
+Android AI application demonstrating practical Generative AI and ML Kit capabilities across vision and natural-language use cases.
+
+**Tech:** Kotlin • Jetpack Compose • MVVM • Hilt • ML Kit • Gemini • CameraX
+
+🔗 https://github.com/Sainathhiwale/MLKitApp
+
+---
+
+## ⚙️ Backend & Microservices
+
+Hands-on experience developing backend services and distributed applications using **Spring Boot and Microservices architecture**.
+
+**Technologies:**
+Spring Boot • REST APIs • Microservices • SQL • MySQL • Hibernate • JPA • Apache Kafka
+
+**Architecture:**
+API Gateway • Authentication & Authorization • Service-to-Service Communication • Database-per-Service • Event-Driven Architecture • Kafka Messaging
+
+---
+
+## 📱 Android Engineering
+
+**Android:** Android SDK • Jetpack Compose • MVVM • Clean Architecture • Coroutines • Flow • Room • Hilt • Retrofit • CameraX
+
+**Testing:** JUnit • Espresso
+
+---
+
+## 💻 Core Technologies
+
+**Languages:** Java • Kotlin • SQL
+
+**Backend:** Spring Boot • REST APIs • Microservices • Hibernate • JPA • MySQL • Kafka
+
+**AI / GenAI:** Generative AI • LLM Applications • MCP • AI Agents • Gemini • Gemini Nano • ML Kit • On-Device AI
+
+**Tools:** Git • GitHub • Android Studio • IntelliJ IDEA
+
+---
+
+## 🎯 Currently Focusing On
+
+**Agentic AI • MCP • LLM Applications • AI Engineering • AI Agents • On-Device AI • AI + Mobile**
+
+---
+
+## 📫 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sainath-hiwale-42971210b)
+
+🔗 [GitHub](https://github.com/Sainathhiwale)
