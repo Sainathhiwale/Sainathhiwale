@@ -1,24 +1,100 @@
-## Hi there 👋
+# 👋 Hi, I'm Sainath Hiwale
 
-# SAINATH HIWALE
+### 🚀 Consultant | Senior Software Engineer | Android | Backend | AI
 
-### Consultant | Senior Software Engineer | Android & Backend | AI Engineer
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sainathhiwale&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-**8+ years of Software Engineering experience** building scalable Android, backend, microservices, and AI-powered applications.
+**8+ years of Software Engineering experience** building Android applications, backend services, microservices, and AI-powered solutions.
 
-**Android • Kotlin • Java • Spring Boot • Microservices • SQL • MySQL • Hibernate • Kafka • Generative AI • MCP • AI Agents • On-Device AI**
+Currently exploring **Android + Kotlin Multiplatform + Generative AI + AI Agents + MCP + On-Device AI**.
 
 ---
 
-## 🚀 Featured AI Projects
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Sainathhiwale">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sainath-hiwale-42971210b/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@hiwale.sg">
+<img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/9152536/sainath-hiwale">
+<img src="https://img.shields.io/badge/STACK%20OVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 📱 Mobile
+
+<p align="left">
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JETPACK%20COMPOSE-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+**Android:** Android SDK • Jetpack Compose • MVVM • Clean Architecture • Coroutines • Flow • Room • Hilt • Retrofit • OkHttp • CameraX
+
+**KMP:** Kotlin Multiplatform • Shared Business Logic • Compose Multiplatform
+
+### 🤖 AI / ML
+
+<p align="left">
+<img src="https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/GEMMA-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20KIT-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MEDIAPIPE-00A98F?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LITERT-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+**GenAI:** Gemini • Gemini Nano • Gemma • LLMs • RAG • Embeddings • Prompt Engineering
+
+**AI Agents:** MCP • Tool Calling • Function Calling • Agent Workflows
+
+**On-Device AI:** ML Kit • MediaPipe • LiteRT / TFLite • Computer Vision • OCR
+
+### ☁️ Backend
+
+<p align="left">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/APACHE%20KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+**Backend:** Java • Spring Boot • REST APIs • Microservices • JPA • Hibernate • MySQL • Kafka • Firebase
+
+### 🛠️ Tools
+
+Git • GitHub • Android Studio • IntelliJ IDEA • Docker • GitHub Actions
+
+---
+
+# 🚀 Featured AI Projects
 
 ### 🤖 AIMCPAgents
 
-**Android + Model Context Protocol (MCP) + AI Agents**
+**Android + MCP + AI Agents**
 
-Exploring AI agent architectures, MCP tool integration, remote/local MCP servers, tool discovery, and AI-powered Android applications.
+Exploring MCP, AI agents, tool discovery, JSON-RPC and SSE communication.
 
-**Tech:** Kotlin • Android • Jetpack Compose • MCP • JSON-RPC • SSE • AI Agents
+`Kotlin` `Android` `Compose` `MCP` `AI Agents`
 
 🔗 https://github.com/Sainathhiwale/AIMCPAgents
 
@@ -28,66 +104,86 @@ Exploring AI agent architectures, MCP tool integration, remote/local MCP servers
 
 **Gemini Nano + ML Kit + On-Device AI**
 
-Exploring privacy-focused AI capabilities using Gemini Nano and ML Kit for intelligent on-device Android applications.
+Exploring privacy-focused, offline-capable AI and on-device inference.
 
-**Tech:** Kotlin • Android • Gemini Nano • ML Kit • Edge AI • On-Device AI
+`Kotlin` `Android` `Gemini Nano` `ML Kit` `AICore`
 
 🔗 https://github.com/Sainathhiwale/GeminiEdge-MLKit-NanoEdge-AI-Android
 
 ---
 
-### 📱 MLKitApp
+### 👁️ MLKitApp
 
-**ML Kit + Gemini + Android Generative AI**
+**Android Computer Vision + Generative AI**
 
-Android AI application demonstrating practical Generative AI and ML Kit capabilities across vision and natural-language use cases.
+Exploring OCR, CameraX, ML Kit and Gemini integration.
 
-**Tech:** Kotlin • Jetpack Compose • MVVM • Hilt • ML Kit • Gemini • CameraX
+`Kotlin` `Compose` `ML Kit` `Gemini` `CameraX`
 
 🔗 https://github.com/Sainathhiwale/MLKitApp
 
 ---
 
-## ⚙️ Backend & Microservices
+# 🕰️ Earlier Android Projects
 
-Hands-on experience developing backend services and distributed applications using **Spring Boot and Microservices architecture**.
+> **Around 8 years ago, I was already experimenting with Android, Computer Vision and Machine Learning.**
 
-**Technologies:**
-Spring Boot • REST APIs • Microservices • SQL • MySQL • Hibernate • JPA • Apache Kafka
+| Project                                                                                                | Technology                            |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| 🚶 [ActivityRecognition](https://github.com/Sainathhiwale/ActivityRecognition)                         | Java • Android • Activity Recognition |
+| 🔤 [TextRecognitionAndroid](https://github.com/Sainathhiwale/TextRecognitionAndroid)                   | Java • Android • OCR                  |
+| 🧠 [Android-TensorFlow-Lite-Example](https://github.com/Sainathhiwale/Android-TensorFlow-Lite-Example) | Java • TensorFlow Lite • ML           |
+| 📱 [PhonePayClone](https://github.com/Sainathhiwale/PhonePayClone)                                     | Java • Android • UI                   |
 
-**Architecture:**
-API Gateway • Authentication & Authorization • Service-to-Service Communication • Database-per-Service • Event-Driven Architecture • Kafka Messaging
+### 🔄 Evolution
 
----
+```text
+Android
+   ↓
+Computer Vision / OCR
+   ↓
+TensorFlow Lite
+   ↓
+On-Device ML
+   ↓
+ML Kit
+   ↓
+Generative AI
+   ↓
+Gemini / Gemini Nano
+   ↓
+AI Agents + MCP
+```
 
-## 📱 Android Engineering
-
-**Android:** Android SDK • Jetpack Compose • MVVM • Clean Architecture • Coroutines • Flow • Room • Hilt • Retrofit • CameraX
-
-**Testing:** JUnit • Espresso
-
----
-
-## 💻 Core Technologies
-
-**Languages:** Java • Kotlin • SQL
-
-**Backend:** Spring Boot • REST APIs • Microservices • Hibernate • JPA • MySQL • Kafka
-
-**AI / GenAI:** Generative AI • LLM Applications • MCP • AI Agents • Gemini • Gemini Nano • ML Kit • On-Device AI
-
-**Tools:** Git • GitHub • Android Studio • IntelliJ IDEA
-
----
-
-## 🎯 Currently Focusing On
-
-**Agentic AI • MCP • LLM Applications • AI Engineering • AI Agents • On-Device AI • AI + Mobile**
+**The technology changed. The curiosity didn't.** ⚡
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Learning
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sainath-hiwale-42971210b)
+**Generative AI • LLM Applications • MCP • AI Agents • RAG • Vector Databases • On-Device AI • AI + Cloud Architecture**
 
-🔗 [GitHub](https://github.com/Sainathhiwale)
+---
+
+# 💡 Engineering Philosophy
+
+> **“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”**
+> — **Nikola Tesla**
+
+**Build → Learn → Experiment → Understand → Innovate → Share**
+
+<p align="center">
+
+### ⚡ Think Beyond the Code. Understand the System. Build What's Next.
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Building the future of Mobile + AI
+
+**Android • Kotlin • KMP • Generative AI • AI Agents • MCP • On-Device AI • Backend**
+
+</p>
