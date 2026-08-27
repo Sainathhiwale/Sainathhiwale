@@ -12,6 +12,52 @@ Currently exploring **Android + Kotlin Multiplatform + Generative AI + AI Agents
 
 ---
 
+# 🚀 Live & Published Projects
+
+### 📱 Examen – Quiz & Interview Preparation
+
+A quiz and interview preparation application for programming and technical learning.
+
+<a href="https://play.google.com/store/apps/details?id=com.dorvis.quizapp">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+       width="180"
+       alt="Get it on Google Play"/>
+</a>
+
+**Last Updated:** July 25, 2026
+
+**Tech Stack:**  
+Android SDK • Kotlin • Jetpack Compose • MVVM • Clean Architecture • Coroutines • Flow • Room • Hilt • Retrofit • OkHttp • CameraX • Firebase Crashlytics • Firebase Analytics • Firebase Performance • KDoc • Junit Testing
+
+---
+
+### 💰 Expense App – Daily Expense Tracker
+
+Android application for managing and tracking daily expenses.
+
+<a href="https://play.google.com/store/apps/details?id=com.examen.dailyexpense">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+       width="180"
+       alt="Get it on Google Play"/>
+</a>
+
+**Last Updated:** July 23, 2026
+
+**Tech Stack:**  
+Android SDK • Kotlin • Jetpack Compose • MVVM • Clean Architecture • Coroutines • Flow • Room • Hilt • Retrofit • OkHttp • CameraX • Firebase Crashlytics • Firebase Analytics • Firebase Performance • KDoc • Junit Testing
+
+---
+
+### 🌐 Examen Programming – Web Application
+
+Web application for programming quizzes, interview preparation and learning content.
+
+🔗 **[Live Application](https://examenprogramming.firebaseapp.com/)**
+
+**Hosting:** Firebase Hosting
+
+---
+
 # 🌐 Connect With Me
 
 <p align="left">
@@ -169,6 +215,7 @@ AI Agents + MCP
 
 > **“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”**
 > — **Nikola Tesla**
+
 
 **Build → Learn → Experiment → Understand → Innovate → Share**
 
