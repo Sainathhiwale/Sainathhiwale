@@ -8,7 +8,7 @@
 
 **8+ years of Software Engineering experience** building Android applications, backend services, microservices, and AI-powered solutions.
 
-Currently exploring **Android + Kotlin Multiplatform + Generative AI + AI Agents + MCP + On-Device AI**.
+Currently exploring **Kotlin Multiplatform + Generative AI + AI Agents + MCP + On-Device AI**.
 
 ---
 
